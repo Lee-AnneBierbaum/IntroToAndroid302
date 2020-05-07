@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriviaApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_user">Hi, Lee-Anne</string>
+    <string name="category_1">COVID-19</string>
+    <string name="category_2">INFLUENZA</string>
+    <string name="category_3">CHOLERA</string>
+
+    <color name="sandy">#d3ca91</color>
+    <color name="teal">#699490</color>
+    <color name="rosy">#bd0c23</color>
+    <color name="whitish">#f7f7f7</color>
+</resources>

@@ -11,4 +11,7 @@
     <color name="teal">#699490</color>
     <color name="rosy">#bd0c23</color>
     <color name="whitish">#f7f7f7</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
